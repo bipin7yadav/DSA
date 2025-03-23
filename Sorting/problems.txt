@@ -1,0 +1,20 @@
+// Insertion sort
+
+https://leetcode.com/problems/sort-an-array/
+
+// Merge Sort
+https://leetcode.com/problems/sort-an-array/
+
+https://leetcode.com/problems/merge-k-sorted-lists/
+
+
+// QUick Sort
+
+https://leetcode.com/problems/sort-an-array/
+
+https://leetcode.com/problems/kth-largest-element-in-an-array/
+
+
+// Bucket Sort
+
+https://leetcode.com/problems/sort-colors/

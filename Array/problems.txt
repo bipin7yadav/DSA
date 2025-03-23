@@ -1,0 +1,24 @@
+SUGGESTED PROBLEMS
+
+Static Array
+
+https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+
+https://leetcode.com/problems/remove-element/
+
+https://leetcode.com/problems/shuffle-the-array/
+
+
+Dynamic Array :
+
+https://leetcode.com/problems/concatenation-of-array/
+
+
+
+Stack:
+
+https://leetcode.com/problems/baseball-game/
+
+https://leetcode.com/problems/valid-parentheses/
+
+https://leetcode.com/problems/min-stack/
