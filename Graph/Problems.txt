@@ -1,0 +1,25 @@
+DFS :
+SUGGESTED PROBLEMS
+
+https://leetcode.com/problems/number-of-islands/
+
+https://leetcode.com/problems/max-area-of-island/
+
+
+
+BFS:
+
+SUGGESTED PROBLEMS
+
+https://leetcode.com/problems/shortest-path-in-binary-matrix/
+
+https://leetcode.com/problems/rotting-oranges/
+
+
+AdjencyList:
+
+SUGGESTED PROBLEMS
+
+https://leetcode.com/problems/clone-graph/
+
+https://leetcode.com/problems/course-schedule/
