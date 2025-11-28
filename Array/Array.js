@@ -271,3 +271,20 @@ function minWindow(s, t) {
 
     return ans[0] === -1 ? "" : s.slice(ans[1], ans[2] + 1);
 }
+
+
+function groupAnagrams(strs){
+    let anagrams = new Map();
+    for(let str of strs){
+        let key = str.split("").sort().join("")
+        if(!anagrams.has(key)){
+            anagrams.set(key,[])
+        }
+        anagrams.get(key).push(str)
+    }
+
+    return Array.from(anagrams.values())
+}
+
+
+console.log();
